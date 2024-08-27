@@ -2,3 +2,4 @@ Line 1 some text
 Line 2 changed in b1 edited in merge
 Line 2 changed in master
 Line 3 something else
+Line 4 a new line
